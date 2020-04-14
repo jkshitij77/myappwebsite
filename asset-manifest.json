@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myappwebsite/static/css/main.65731573.chunk.css",
+    "main.js": "/myappwebsite/static/js/main.2959a02d.chunk.js",
+    "main.js.map": "/myappwebsite/static/js/main.2959a02d.chunk.js.map",
+    "runtime-main.js": "/myappwebsite/static/js/runtime-main.a3a8d997.js",
+    "runtime-main.js.map": "/myappwebsite/static/js/runtime-main.a3a8d997.js.map",
+    "static/js/2.2d64ed97.chunk.js": "/myappwebsite/static/js/2.2d64ed97.chunk.js",
+    "static/js/2.2d64ed97.chunk.js.map": "/myappwebsite/static/js/2.2d64ed97.chunk.js.map",
+    "index.html": "/myappwebsite/index.html",
+    "precache-manifest.ec2efb1162d6737e85960b7bd8a5e05a.js": "/myappwebsite/precache-manifest.ec2efb1162d6737e85960b7bd8a5e05a.js",
+    "service-worker.js": "/myappwebsite/service-worker.js",
+    "static/css/main.65731573.chunk.css.map": "/myappwebsite/static/css/main.65731573.chunk.css.map",
+    "static/js/2.2d64ed97.chunk.js.LICENSE.txt": "/myappwebsite/static/js/2.2d64ed97.chunk.js.LICENSE.txt",
+    "static/media/AOT.jpg": "/myappwebsite/static/media/AOT.bf98fb52.jpg",
+    "static/media/Android.png": "/myappwebsite/static/media/Android.c65fd3ef.png",
+    "static/media/Berk.png": "/myappwebsite/static/media/Berk.1949dfd9.png",
+    "static/media/frisbee.jpg": "/myappwebsite/static/media/frisbee.3e4a7bd5.jpg",
+    "static/media/javacode.png": "/myappwebsite/static/media/javacode.ab102ed3.png",
+    "static/media/logo.svg": "/myappwebsite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3a8d997.js",
+    "static/js/2.2d64ed97.chunk.js",
+    "static/css/main.65731573.chunk.css",
+    "static/js/main.2959a02d.chunk.js"
+  ]
+}
